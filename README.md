@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [2390-removing-stars-from-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
