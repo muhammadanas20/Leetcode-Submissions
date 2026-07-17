@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
@@ -86,15 +87,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
