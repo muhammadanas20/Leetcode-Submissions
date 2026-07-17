@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Tree
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
