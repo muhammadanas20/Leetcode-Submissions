@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
@@ -84,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
