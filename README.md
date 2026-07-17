@@ -85,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0242-valid-anagram) |
 ## Simulation
