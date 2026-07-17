@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Linked List
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
