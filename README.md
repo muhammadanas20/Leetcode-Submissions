@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0704-binary-search) |
