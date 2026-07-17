@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0138-copy-list-with-random-pointer](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0143-reorder-list) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Array
