@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0015-3sum) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
