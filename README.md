@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0326-power-of-three) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
