@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [1768-merge-strings-alternately](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
