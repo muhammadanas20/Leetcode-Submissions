@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0342-power-of-four](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
