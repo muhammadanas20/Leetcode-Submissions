@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3467-transform-array-by-parity](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0242-valid-anagram) |
+| [3467-transform-array-by-parity](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0169-majority-element) |
+| [3467-transform-array-by-parity](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
