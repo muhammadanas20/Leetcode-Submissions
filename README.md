@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0704-binary-search) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -219,4 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
