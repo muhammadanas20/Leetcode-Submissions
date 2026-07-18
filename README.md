@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
 | [1470-shuffle-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3467-transform-array-by-parity](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3467-transform-array-by-parity) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
 | ------- |
