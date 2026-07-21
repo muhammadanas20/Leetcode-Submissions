@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
