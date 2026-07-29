@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
+| [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1470-shuffle-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0342-power-of-four) |
+| [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
