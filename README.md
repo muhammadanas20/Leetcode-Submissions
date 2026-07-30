@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0853-car-fleet](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0853-car-fleet) |
 | [2390-removing-stars-from-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
+| [0853-car-fleet](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0853-car-fleet) |
 | [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1470-shuffle-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0853-car-fleet](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0853-car-fleet) |
 | [3467-transform-array-by-parity](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0853-car-fleet](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0853-car-fleet) |
 ## Matrix
 |  |
 | ------- |
