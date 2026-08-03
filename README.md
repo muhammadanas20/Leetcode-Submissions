@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0853-car-fleet) |
 | [2390-removing-stars-from-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
+| [0735-asteroid-collision](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0853-car-fleet) |
 | [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1470-shuffle-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1470-shuffle-the-array) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
