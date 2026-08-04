@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3467-transform-array-by-parity](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0853-car-fleet) |
 | [3467-transform-array-by-parity](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
+| [3731-find-missing-elements](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
