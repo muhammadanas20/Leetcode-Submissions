@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0853-car-fleet) |
 | [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0706-design-hashmap) |
 | [3731-find-missing-elements](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
