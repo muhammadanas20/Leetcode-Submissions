@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -116,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [2469-convert-the-temperature](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2469-convert-the-temperature) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search Tree
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -357,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
