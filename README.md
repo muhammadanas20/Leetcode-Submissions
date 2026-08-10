@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
+| [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 | [2469-convert-the-temperature](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2469-convert-the-temperature) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
+| [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -365,4 +367,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
