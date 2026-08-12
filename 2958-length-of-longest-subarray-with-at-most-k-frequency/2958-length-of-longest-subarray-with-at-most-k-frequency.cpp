@@ -20,3 +20,4 @@ public:
 
     }
 };
+// std::unordered_map<int, int> keeps track of element frequencies with an average \(\mathcal{O}(1)\) lookup time.The for loop expands the window by incrementing the right pointer.The while loop maintains the problem's condition by reducing frequencies and moving the left pointer forward.right - left + 1 calculates the size of the current valid subarray sequence
