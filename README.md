@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2469-convert-the-temperature) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1470-shuffle-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
