@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0853-car-fleet) |
 | [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1563-stone-game-v) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0706-design-hashmap) |
+| [1386-cinema-seat-allocation](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0342-power-of-four) |
 | [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
