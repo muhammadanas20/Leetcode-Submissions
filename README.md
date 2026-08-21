@@ -123,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2469-convert-the-temperature) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search Tree
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0704-binary-search) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3467-transform-array-by-parity](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0342-power-of-four) |
 | [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
@@ -435,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
