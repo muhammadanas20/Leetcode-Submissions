@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [1768-merge-strings-alternately](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2469-convert-the-temperature) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-stone-game-iv](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
