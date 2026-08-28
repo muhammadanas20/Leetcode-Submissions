@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Function
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -468,4 +470,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
