@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/muhammadanas20/Leetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/0706-design-hashmap) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1386-cinema-seat-allocation](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -497,4 +502,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Binary Lifting
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## DP on Trees
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/muhammadanas20/Leetcode-Submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
