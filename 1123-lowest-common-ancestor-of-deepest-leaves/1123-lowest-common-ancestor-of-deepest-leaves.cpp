@@ -2,24 +2,30 @@
 class Solution {
 public:
 
-    pair<int, TreeNode*> solve(TreeNode* root) {
-
+    int height(TreeNode* root) {
         if (root == NULL)
-            return {0, NULL};
+            return 0;
 
-        auto left = solve(root->left);
-        auto right = solve(root->right);
+        int left = height(root->left);
+        int right = height(root->right);
 
-        if (left.first > right.first)
-            return {left.first + 1, left.second};
-
-        if (right.first > left.first)
-            return {right.first + 1, right.second};
-
-        return {left.first + 1, root};
+        return 1 + max(left, right);
     }
 
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        return solve(root).second;
+
+        if (root == NULL)
+            return NULL;
+
+        int left = height(root->left);
+        int right = height(root->right);
+
+        if (left == right)
+            return root;
+
+        if (left > right)
+            return lcaDeepestLeaves(root->left);
+
+        return lcaDeepestLeaves(root->right);
     }
 };
